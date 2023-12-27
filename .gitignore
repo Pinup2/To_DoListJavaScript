@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/To-Do List (JavaScript)/*
+!/To-Do List (JavaScript)/task/
+/To-Do List (JavaScript)/task/*
+!/To-Do List (JavaScript)/task/src
