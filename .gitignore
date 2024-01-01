@@ -10,11 +10,9 @@ build
 .idea
 
 # old stages
-/To-Do List (JavaScript)/*
-!/To-Do List (JavaScript)/task/
-/To-Do List (JavaScript)/task/*
-!/To-Do List (JavaScript)/task/src
+
+
+
+
 node_modules/
-node_modules/
-node_modules/
-node_modules/
+
